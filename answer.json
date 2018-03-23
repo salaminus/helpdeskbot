@@ -1,0 +1,41 @@
+{
+  "update_id": 344920709,
+  "message": {
+    "message_id": 477,
+    "from": {
+      "id": 307514453,
+      "is_bot": false,
+      "first_name": "Andrey",
+      "last_name": "Vladimirovich",
+      "language_code": "ru-RU"
+    },
+    "chat": {
+      "id": 307514453,
+      "first_name": "Andrey",
+      "last_name": "Vladimirovich",
+      "type": "private"
+    },
+    "date": 1521789995,
+    "text": "127381273497129378893749"
+  }
+}{
+  "update_id": 344920710,
+  "message": {
+    "message_id": 478,
+    "from": {
+      "id": 307514453,
+      "is_bot": false,
+      "first_name": "Andrey",
+      "last_name": "Vladimirovich",
+      "language_code": "ru-RU"
+    },
+    "chat": {
+      "id": 307514453,
+      "first_name": "Andrey",
+      "last_name": "Vladimirovich",
+      "type": "private"
+    },
+    "date": 1521790024,
+    "text": "sdfsdfdvdfvxcv"
+  }
+}
