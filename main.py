@@ -60,7 +60,7 @@ def write_json(data, filename = 'answer.json'):
 
 
 def get_updates():
-    """ Запрос обновлений в чате бота https://api.telegram.org/bot504306281:AAHbh_Bq3JzqAOu7CcM68b6EQ5rI1EZfuTk/getUpdates"""
+    """ Запрос обновлений в чате бота https://api.telegram.org/bot504306281:secret_Token/getUpdates"""
     url = URLbot + 'getUpdates'
     r = requests.get(url)
     #write_json(r.json())
