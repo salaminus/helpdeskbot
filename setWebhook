@@ -1,4 +1,0 @@
-# Создание вебхука:
-https://api.telegram.org/bot504306281:AAHbh_Bq3JzqAOu7CcM68b6EQ5rI1EZfuTk/setWebhook?url=http://76ee3774.ngrok.io/
-# Удаление вебхука:
-https://api.telegram.org/bot504306281:AAHbh_Bq3JzqAOu7CcM68b6EQ5rI1EZfuTk/deleteWebhook?url=http://76ee3774.ngrok.io/
